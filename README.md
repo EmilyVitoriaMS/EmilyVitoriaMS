@@ -81,3 +81,5 @@ Estou desenvolvendo minha lógica de programação e iniciando meus estudos na l
   />
 
 </p>
+
+<img src="https://raw.githubusercontent.com/EmilyVitoriaMS/EmilyVitoriaMS/output/snake.svg" />
