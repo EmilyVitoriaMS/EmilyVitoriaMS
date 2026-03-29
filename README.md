@@ -82,8 +82,4 @@ Estou desenvolvendo minha lógica de programação e iniciando meus estudos na l
 
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyVitoriaMS&layout=donut-vertical)](https://github.com/EmilyVitoriaMS/github-readme-stats)
-
-
 <img src="https://raw.githubusercontent.com/EmilyVitoriaMS/EmilyVitoriaMS/output/snake.svg" />
